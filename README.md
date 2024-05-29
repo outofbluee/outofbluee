@@ -1,10 +1,3 @@
 ### Hi there 👋
-### 🌱 I’m currently learning The basics of Git and GitHub!
-
-<!--
-**outofbluee/outofbluee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning The basics of Git and GitHub!
--->
+### 🌱 I’m currently learning The basics of Git and GitHub, Linux and C#!
+#### The risk I took was calculated, but man, am I bad at math.
