@@ -1,14 +1,8 @@
 ---
-title: cool things
+title: website project
 ---
 
-# things im learning
-## linux
-- [X] basic view and usage
-- [ ] make my base stronger
-      
-## git
-- [X] introduction
-- [ ] basic view and usage
-- [ ] make an project on terminal
-- [ ] make my base stronger
+# Goals
+- [ ] Find a reason for my website
+- [ ] Edit the style(why not)
+- [ ] Learn about github website
