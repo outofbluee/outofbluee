@@ -1,6 +1,6 @@
-title: first site
+title: website project
 author: jeansl
-description: my first site/blog on git
+description: making a website from scratch
 
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
